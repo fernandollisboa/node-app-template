@@ -20,6 +20,6 @@ describe('GET /health', () => {
     const testeId = (Math.random() * 10) << 0;
     const body = { testeId };
     const result = await agent.post('/health').send(body);
-    expect(result.status).toEqual(201);
+    expect(result.status).toEqual(202);
   });
 });
