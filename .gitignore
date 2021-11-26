@@ -13,6 +13,6 @@
 
 # misc
 .DS_Store
-//.env
-//.env.test
-//.env.dev
+.env
+.env.test
+.env.dev
