@@ -8,12 +8,9 @@
 <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </div>
 
-#
+## Dependecies installed
 
-# Dependecies installed
-
-## Production
-#
+### Production
 - bcrypt
 - cors
 - dotenv
@@ -22,8 +19,7 @@
 - jsonwebtoken (jwt)
 - joi
 
-## DevDependencies
-#
+### DevDependencies
 - eslint (airbnb)
 - faker
 - husky
@@ -32,7 +28,6 @@
 - prettier
 
 ## How to use this template
-#
 1 - clone this repo 
 ```sh
 git clone https://github.com/fernandollisboa/node-app-template.git
